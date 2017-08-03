@@ -1,2 +1,16 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+  background: url(http://thewallpaper.co/wp-content/uploads/2016/10/1920x1080-Wallpaper-HD-Images-cool-images-amazing-hd-download-apple-background-wallpapers-colourfull-free-display-1920x1080.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
